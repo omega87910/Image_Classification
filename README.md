@@ -5,9 +5,10 @@
 1. Anaconda  
 2. tensorflow-gpu  
 ## Usage 
-解壓縮<code>mnist_png.zip</code>  
-啟動 Anaconda  
-開啟 Jupyter notebook  
-開啟本專案的<code>Mnist_model.ipynb</code>檔案  
+STEP 1.解壓縮<code>mnist_png.zip</code>  
+STEP 2.啟動 Anaconda  
+STEP 3.開啟 Jupyter notebook  
+STEP 4.開啟本專案的<code>Mnist_model.ipynb</code>檔案  
 ## Reference
-Mnist資料集來自 https://github.com/myleott/mnist_png <br>
+Mnist資料集來自 https://github.com/myleott/mnist_png  
+Tensorflow、CUDA安裝教學 https://www.tensorflow.org/install/gpu  
