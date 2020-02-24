@@ -1,6 +1,6 @@
 # Image_Classification
 ## Introduction 
-手寫數字分類可以說是AI領域的"Hello World"，因此本專案建立基於Keras的CNN模型，放上範例程式碼，供AI領域新手學習。    
+手寫數字分類可以說是AI領域的"Hello World"，因此本專案建立基於Keras的CNN模型，放上範例程式碼，供AI領域新手入門。    
 ## Requirement
 1. Anaconda  
 2. Tensorflow-gpu
